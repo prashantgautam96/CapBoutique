@@ -12,6 +12,10 @@ CapBoutique is a sleek web application designed for the cap connoisseur. Built w
 
 Clone the repo and open `index.html` in a browser to start.
 
+## Start Application 
+
+From commond line run commond *start index.html*
+
 ## Usage
 
 Browse the collection and use the "Order Now" button to purchase your favorite caps.
